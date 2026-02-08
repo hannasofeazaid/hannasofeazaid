@@ -36,7 +36,7 @@ I am currently seeking an internship where I can apply my analytical skills to r
 When I’m not coding or analyzing trends, I’m likely gaming, practicing my Mandarin and Japanese, or keeping up with my favorite anime series like Tokyo Ghoul.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://hannasofeazaid.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://[hannasofeazaid.github.io](https://github.com/hannasofeazaid)/)
       
 ## 🔭 Projects Completed in My Degree Program
 
